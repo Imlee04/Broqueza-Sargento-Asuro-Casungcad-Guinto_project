@@ -1,0 +1,15 @@
+h1{
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	text-align: center;
+  }
+img {
+  display: center;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 100%;
+  opacity: default;
+}
